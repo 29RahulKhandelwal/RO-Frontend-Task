@@ -1,0 +1,53 @@
+.contact{
+    height: 60%;
+    left: 50%;
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.reach-us{
+    background-color: white;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 25%);
+    width: 22%;
+    margin: auto;
+    padding: 25px 10px;
+}
+.heading{
+    font-weight: 600;
+}
+.info{
+    text-align: left;
+    padding: 0 40px;
+    margin: 25px 0;
+}
+.subHeading{
+    font-weight: 600;
+    margin: 0;
+}
+.subPara{
+    margin: 4px 0;
+    font-size: 17px;
+    font-weight: 500;
+}
+.social-links{
+    width: 22%;
+    margin: auto;
+}
+.socialPara{
+    font-size: 17px;
+    margin: 20px 0 10px 0;
+}
+.social-link{
+    height: 25px;
+    margin: 0 5px;
+}
+
+@media only screen and (max-width: 1120px){
+    .reach-us{
+        width: 80%;
+    }
+}

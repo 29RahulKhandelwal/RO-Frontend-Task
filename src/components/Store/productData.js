@@ -1,0 +1,66 @@
+import Shoe from "../../assets/shoe.jpg"
+import Shoe1 from "../../assets/shoe1.jpg"
+import Shoe2 from "../../assets/shoe2.png"
+
+export const productData = [
+    {
+      id: 1,
+      name: "KSL 01",
+      price: "2000",
+      rating: "4",
+      desc: "by KICKSUP and you",
+      reviews: "80 reviews",
+      category: "loafers",
+      imageURL: Shoe,
+    },
+    {
+      id: 2,
+      name: "KSW 01",
+      price: "1500",
+      rating: "4",
+      desc: "by KICKSUP and you",
+      reviews: "80 reviews",
+      category: "loafers",
+      imageURL: Shoe2,
+    },
+    {
+      id: 3,
+      name: "Royal S 01",
+      price: "6000",
+      rating: "4",
+      desc: "by KICKSUP and you",
+      reviews: "80 reviews",
+      category: "sneakers",
+      imageURL: Shoe1,
+    },
+    {
+      id: 4,
+      name: "KSL 01",
+      price: "5000",
+      rating: "4",
+      desc: "by KICKSUP and you",
+      reviews: "80 reviews",
+      category: "sneakers",
+      imageURL: Shoe,
+    },
+    {
+      id: 5,
+      name: "KSW 01",
+      price: "8000",
+      rating: "4",
+      desc: "by KICKSUP and you",
+      reviews: "80 reviews",
+      category: "sneakers",
+      imageURL: Shoe2,
+    },
+    {
+      id: 6,
+      name: "Royal S 01",
+      price: "3500",
+      rating: "4",
+      desc: "by KICKSUP and you",
+      reviews: "80 reviews",
+      category: "loafers",
+      imageURL: Shoe1,
+    },
+];
