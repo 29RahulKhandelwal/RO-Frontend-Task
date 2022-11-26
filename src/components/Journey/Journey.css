@@ -78,16 +78,6 @@
         padding: 40px 45px;
     }
     .logo{
-        filter: invert(1);
-        height: 300px;
-        position: relative;
-        top: -460px;
-        margin: auto;
-        text-align: center;
-        align-items: center;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        width: 60%;
+        width: 80%;
     }
 }
