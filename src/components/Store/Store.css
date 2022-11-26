@@ -523,4 +523,11 @@ button{
         flex-wrap: wrap;
         justify-content: space-around;
     }
+    .productImageDiv{
+        width: 60%;
+        height: 350px;
+    }
+    .productImage{
+        width: 60%;
+    }
   }

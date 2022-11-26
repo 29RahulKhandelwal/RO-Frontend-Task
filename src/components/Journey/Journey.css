@@ -70,3 +70,24 @@
     margin: 4px 0;
     text-align: justify;
 }
+@media only screen and (max-width:1120px) {
+    .journeyHeading{
+        top: 250px;
+    }
+    .histories{
+        padding: 40px 45px;
+    }
+    .logo{
+        filter: invert(1);
+        height: 300px;
+        position: relative;
+        top: -460px;
+        margin: auto;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 60%;
+    }
+}
